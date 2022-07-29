@@ -2,7 +2,9 @@ function ExpenseItem() {
   return (
     <div>
       <div>
+
         <h2>Food</h2>
+        
       </div>
       <div>Rs 10</div>
       <div>
